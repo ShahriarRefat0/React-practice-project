@@ -1,4 +1,4 @@
-# React-practice-# React Practice Projects ⚛️
+# React Practice Projects ⚛️
 
 Welcome to my React Practice Projects repository!
 
